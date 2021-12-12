@@ -7,6 +7,7 @@ A Portfolio/Resume website template for Programmers, Geeks, Developers, Hackers 
 3. Simple and Fast website User Interface.
 
 ### Website UI Gallary
+<<<<<<< HEAD
 #### About Tab
 ![Acerca del Tab](https://i.postimg.cc/PJbnTnTX/1.jpg)
 
@@ -17,6 +18,18 @@ A Portfolio/Resume website template for Programmers, Geeks, Developers, Hackers 
 ![Proyecto del Tab](https://i.postimg.cc/Wp0vMgrB/3.jpg)
 
 #### Contact Tab
+=======
+#### Acerca del Tab
+![Acerca del Tab](https://i.postimg.cc/PJbnTnTX/1.jpg)
+
+#### Ficha del Tab
+![Ficha del Tab](https://i.postimg.cc/xTYSg83c/2.jpg)
+
+#### Proyecto del Tab
+![Proyecto del Tab](https://i.postimg.cc/Wp0vMgrB/3.jpg)
+
+#### Contacto del Tab
+>>>>>>> f80a679cc30243be0b843401cd4fc99df08c83fd
 ![Contacto del Tab](https://i.postimg.cc/9FpHk2L1/4.jpg)
 
 ### Demo

@@ -8,16 +8,16 @@ A Portfolio/Resume website template for Programmers, Geeks, Developers, Hackers 
 
 ### Website UI Gallary
 #### About Tab
-![About Tab](https://i.postimg.cc/WpCWc7gB/1.png)
+![Acerca del Tab](https://i.postimg.cc/PJbnTnTX/1.jpg)
 
 #### Skills Tab
-![Skills Tab](https://i.postimg.cc/HL6zZ0TP/2.png)
+![Ficha del Tab](https://i.postimg.cc/xTYSg83c/2.jpg)
 
 #### Project Tab
-![Project Tab](https://i.imgur.com/u4oyV6r.png)
+![Proyecto del Tab](https://i.postimg.cc/Wp0vMgrB/3.jpg)
 
 #### Contact Tab
-![Contact Tab](https://i.postimg.cc/Y0WxCJYJ/4.png)
+![Contacto del Tab](https://i.postimg.cc/9FpHk2L1/4.jpg)
 
 ### Demo
 For Demo of this template you can visit http://0xprateek-portfolio-template.rf.gd
